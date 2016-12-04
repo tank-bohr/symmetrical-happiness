@@ -2,3 +2,4 @@ media/beep.wav filter=lfs diff=lfs merge=lfs -text
 media/space.png filter=lfs diff=lfs merge=lfs -text
 media/star.png filter=lfs diff=lfs merge=lfs -text
 media/starfighter.bmp filter=lfs diff=lfs merge=lfs -text
+media/pixel.png filter=lfs diff=lfs merge=lfs -text

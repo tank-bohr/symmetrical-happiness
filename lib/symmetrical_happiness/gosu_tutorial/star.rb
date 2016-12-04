@@ -1,4 +1,4 @@
-module SymmetricalHappiness
+module SymmetricalHappiness::GosuTutorial
   class Star
     attr_reader :x, :y
 

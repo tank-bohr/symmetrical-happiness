@@ -1,10 +1,11 @@
 require 'gosu'
 
-require 'symmetrical_happiness/z_order'
-require 'symmetrical_happiness/player'
-require 'symmetrical_happiness/star'
+require 'symmetrical_happiness'
+require 'symmetrical_happiness/gosu_tutorial/z_order'
+require 'symmetrical_happiness/gosu_tutorial/player'
+require 'symmetrical_happiness/gosu_tutorial/star'
 
-module SymmetricalHappiness
+module SymmetricalHappiness::GosuTutorial
   class GameWindow < Gosu::Window
     def initialize
       super 640, 480

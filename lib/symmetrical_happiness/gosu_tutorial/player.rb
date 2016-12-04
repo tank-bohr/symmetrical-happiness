@@ -1,4 +1,4 @@
-module SymmetricalHappiness
+module SymmetricalHappiness::GosuTutorial
   class Player
     attr_reader :score
 
